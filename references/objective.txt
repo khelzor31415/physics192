@@ -1,0 +1,23 @@
+Does the data support a correlation betweeen:
+
+I. long quiz X scores and long exam X scores X = {1, 2, 3}
+
+II. average of long quizzes scores and average of long exam scores
+
+III. average of long quizzes scores and final exam scores
+
+IV. average of long exam scores and final exam scores
+
+V. student absences and long quiz X scores X = {1, 2, 3, 4}
+
+VI. student absences and long exam X scores X = {1, 2, 3}
+
+VII. student absences and average of long quizzes scores
+
+VIII. student absences and average of long exam scores
+
+IX. student absences and final exam scores 
+
+--------------------------------------------------------------------------------------------------
+
+Make a scatter plot for each case.
