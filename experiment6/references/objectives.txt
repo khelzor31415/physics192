@@ -1,0 +1,13 @@
+Read about COVID-19 from reliable scientific sources.
+
+Analyze the data and propose a model regarding the behavior of the COVID-19 Pandemic for NCR
+
+Start from 31 August 2021
+
+---------------------------------------------------------------------------------------------
+
+Model the data with linear, exponential, and 2nd to 3rd order polynomial relationships and test 
+using the Chi-Squared Test.
+
+Analyze the data based on its reliability, collection method, peculiarities of the COVID-19 Virus,
+and comparison with other pandemics.
